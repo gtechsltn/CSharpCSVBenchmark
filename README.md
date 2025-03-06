@@ -1,4 +1,4 @@
-## CsharpCSVBench
+## CSharp CSV Benchmark
 
 [![.NET](https://github.com/lemire/CsharpCSVBench/actions/workflows/dotnet.yml/badge.svg)](https://github.com/lemire/CsharpCSVBench/actions/workflows/dotnet.yml)
 
