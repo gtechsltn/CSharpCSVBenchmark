@@ -11,6 +11,8 @@ dotnet run -c Release
 
 We expect .NET 9 or better.
 
+# References
+
 https://github.com/philoushka/LargeFileSplitter
 
 https://github.com/lemire/CsharpCSVBench
